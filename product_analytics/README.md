@@ -23,6 +23,14 @@ The query provides insights into:
 * `README.md`: Project documentation and technical details.
 * `results.csv`: Sample output demonstrating the processed analytical data.
 
+### 📈 Visualizations / Візуалізації
+#### User Distribution by Country
+![Accounts by Country](./accounts_by_country.png)
+#### Total Emails Sent by Country
+![Emails Sent by Country](./sent_emails_by_country.png)
+#### Email Sending Dynamics Over Time
+![Geomap Rank Countries by Accounts](./geomap_rank_by_accounts.png)
+
 
 ##  Results / Результати
 * [📄 View results (Google Drive)](https://docs.google.com/document/d/1lgRniCUIVGGD7ddJ6IfUbRbVV-hsrpJV5SY7rOr81dY/edit?usp=sharing)
