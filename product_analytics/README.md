@@ -30,6 +30,6 @@ The query provides insights into:
 
 ##  Results 
 * [📄 View CSV file](./product_analytics_results.csv)
-* [📄 View results (Google Drive)](https://docs.google.com/document/d/1lgRniCUIVGGD7ddJ6IfUbRbVV-hsrpJV5SY7rOr81dY/edit?usp=sharing)
+* [📄 View results (Google Drive)](https://drive.google.com/file/d/1wnyJWVQnCX83BSHSrSvPVoedENUxXrQO/view?usp=sharing)
 ---
 **Note:** The data processed in this project is for analytical demonstration purposes, showcasing the ability to handle large-scale relational datasets in a cloud environment.
