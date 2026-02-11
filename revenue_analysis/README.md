@@ -23,7 +23,7 @@ The final query output generates a strategic dashboard-ready table including:
 4.  **Operational Volume:** Comparative analysis of session counts vs. verified account creation.
 
 ##  Results
-* [📄 Переглянути CSV на GitHub](./results.csv)
-* * [🔗 View result Google Drive](https://drive.google.com/file/d/1jT-kJqXtmknMQoETsj88dpuvxHA8DBsg/view?usp=sharing)
+* [📄 View CSV](./revenue_analysis_results.csv)
+* [🔗 View result Google Drive](https://drive.google.com/file/d/1jT-kJqXtmknMQoETsj88dpuvxHA8DBsg/view?usp=sharing)
 ---
 **Note:** This analysis was built using the `DA` dataset in BigQuery to demonstrate the ability to handle multi-layered data aggregation for business decision-making.
