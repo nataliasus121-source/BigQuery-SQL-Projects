@@ -16,3 +16,4 @@ This SQL query is designed to analyze email activity broken down by month and sp
 
 ## 📊 Results 
 * [📄 View Results (Google Drive)](https://drive.google.com/file/d/1FVEIizSEYAHjuCy8TKsHKDDNkGBhcwf0/view?usp=sharing)
+* [📄 View CSV GitHub](./results.csv)
