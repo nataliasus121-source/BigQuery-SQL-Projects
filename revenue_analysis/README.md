@@ -24,6 +24,6 @@ The final query output generates a strategic dashboard-ready table including:
 
 ##  Results
 * [📄 Переглянути CSV на GitHub](./results.csv)
-* * [🔗 Інтерактивний звіт у Google Colab](ваше_посилання)
+* * [🔗 View result Google Drive](https://drive.google.com/file/d/1jT-kJqXtmknMQoETsj88dpuvxHA8DBsg/view?usp=sharing)
 ---
 **Note:** This analysis was built using the `DA` dataset in BigQuery to demonstrate the ability to handle multi-layered data aggregation for business decision-making.
