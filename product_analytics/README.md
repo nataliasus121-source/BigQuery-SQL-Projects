@@ -18,10 +18,6 @@ The query provides insights into:
 2.  **User Status:** Breakdown by verification status (`is_verified`) and subscription status (`is_unsubscribed`).
 3.  **Engagement Metrics:** Tracking Sent, Opened, and Visited (click-through) counts for email campaigns.
 
-##  Repository Structure
-* `query.sql`: The full BigQuery SQL script.
-* `README.md`: Project documentation and technical details.
-* `results.csv`: Sample output demonstrating the processed analytical data.
 
 ### 📈 Visualizations / Візуалізації
 #### User Distribution by Country
