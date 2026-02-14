@@ -23,7 +23,8 @@ The repository is organized into specialized folders, each containing the SQL so
 
 ## Technical Skills
 * **SQL Dialect:** Google Standard SQL (BigQuery).
-* **Advanced Techniques:** * Common Table Expressions (CTEs) for modular code.
+* **Advanced Techniques:**
+    * Common Table Expressions (CTEs) for modular code.
     * Window Functions for analytical ranking and running totals.
     * Data Blending using `UNION ALL` and complex `JOIN` logic.
     * Conditional logic for custom business metrics.
