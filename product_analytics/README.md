@@ -19,7 +19,7 @@ The query provides insights into:
 3.  **Engagement Metrics:** Tracking Sent, Opened, and Visited (click-through) counts for email campaigns.
 
 
-### 📈 Visualizations / Візуалізації
+### Visualizations
 #### User Distribution by Country
 ![Accounts by Country](./accounts_by_country.png)
 #### Total Emails Sent by Country
